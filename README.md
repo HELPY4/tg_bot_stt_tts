@@ -1,6 +1,8 @@
 # tg_bot_stt_tts
 Telegram bot with voice message recognition and generation. Speech to Text and Text to Speech.
 
+тут будет форкнутая версия которая реально работает
+
 ### Описание
 Telegram-бот с распознаванием и генерацией голосовых сообщений. Пока протестирован и работает под Windows!
 
